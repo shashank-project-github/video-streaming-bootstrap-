@@ -26,18 +26,12 @@ To use this code, simply download the HTML file and open it in a web browser. En
 
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
 
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ### Author
 
 - Shashank Verma
 
-### Contact
 
-For any inquiries or feedback, please contact:
-- Email: info@showtime.com
 
 ### Acknowledgments
 
@@ -47,7 +41,3 @@ For any inquiries or feedback, please contact:
   - [Wallpaper Cave](https://wallpapercave.com/)
   - Bing Image Search
   - [Pinterest](https://www.pinterest.com/)
-  - [SoundCloud](https://soundcloud.com/)
-  - [IMDb](https://www.imdb.com/)
-  - [Fanpop](https://www.fanpop.com/)
-  - [Media-amazon](https://www.amazon.com/)
